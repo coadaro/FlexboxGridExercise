@@ -97,6 +97,7 @@ section:not(#three) {
   }
 
       /* bonus 4 */
+      /* can use grid-column num/num instead of start and end */
   #p-one {
       grid-column-start: 1;
       grid-column-end: 3;
